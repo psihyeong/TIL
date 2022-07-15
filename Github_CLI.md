@@ -16,3 +16,8 @@
 5. ```git add a.txt```
 6. ```git commit -m "a.txt"```
 7. ```git push origin main```
+
+## git log
+- commit history를 보고싶다면 
+- ```git log```
+- 빠져나가는 키는 Q
